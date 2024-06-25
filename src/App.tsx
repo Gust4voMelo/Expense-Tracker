@@ -1,6 +1,5 @@
 import { Body, Container, Header, HeaderText } from "./App.styles";
 import { Item } from './types/Item';
-import { Category } from "./types/Category";
 import { categories } from "./data/categories";
 import { items } from "./data/items";
 import { useEffect, useState } from "react";
