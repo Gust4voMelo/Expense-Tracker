@@ -1,3 +1,11 @@
+<h1 align="center"> Projeto Expense-Tracker</h1>
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
+## 📁 Acesso ao projeto
+Você pode acessar o projeto clicando [aqui](https://expense-tracker-gust4vomelo.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
